@@ -1,5 +1,4 @@
 # Portfolio:
-This is a sample text
  It's kind of challenging to work with new javascript and css libraries as a first exprinces.
 First library that I learned was typed. which can use it to create typing animation in the web page.
 Glightbox was the sec library that I had challanging and kind of new processing for learing.We can use it for creating tochble light in the web pag.
